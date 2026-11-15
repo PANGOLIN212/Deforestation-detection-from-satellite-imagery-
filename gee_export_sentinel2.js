@@ -1,4 +1,4 @@
-// *** UNTESTED: written without access to Google Earth Engine. Check every line before relying on it. ***
+
 // Exports two Sentinel-2 L2A median composites (six bands, reflectance 0-1) for an area of interest.
 // Run in the Earth Engine Code Editor (code.earthengine.google.com), then download the GeoTIFFs from Google Drive.
 // Collection names and band names change over time: confirm them in the Earth Engine data catalog.
